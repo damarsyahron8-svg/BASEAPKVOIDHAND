@@ -70,13 +70,6 @@
     "createdAt": 1762073417421
   },
   {
-    "username": "Wilzz",
-    "password": "1",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1762099877652
-  },
-  {
     "username": "Crt",
     "password": "1",
     "role": "reseller",
