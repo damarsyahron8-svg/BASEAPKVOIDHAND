@@ -1,0 +1,79 @@
+[
+  {
+    "username": "TAMM",
+    "password": "TAMM",
+    "role": "owner",
+    "expiresAt": 1793192020916,
+    "createdAt": 1761656020916
+  },
+  {
+    "username": "dkzzxiterz",
+    "password": "jk135790",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761716226476
+  },
+  {
+    "username": "riqq",
+    "password": "quinshaa",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761819099333
+  },
+  {
+    "username": "Snazzyress",
+    "password": "19990",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761883418394
+  },
+  {
+    "username": "Kayyro",
+    "password": "kayyroza",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761884821220
+  },
+  {
+    "username": "BUYER12",
+    "password": "BUYER12",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761909501929
+  },
+  {
+    "username": "rapi",
+    "password": "rapi11",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1762046265502
+  },
+  {
+    "username": "rapi11",
+    "password": "rapi11",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1762046829592
+  },
+  {
+    "username": "fahribohay",
+    "password": "fahribohay11",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1762052712519
+  },
+  {
+    "username": "dirz",
+    "password": "ditz",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1762057336632
+  },
+  {
+    "username": "Diz",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1762073417421
+  }
+]
