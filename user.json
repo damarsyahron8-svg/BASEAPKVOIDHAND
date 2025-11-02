@@ -75,5 +75,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762073417421
+  },
+  {
+    "username": "Tamm001",
+    "password": "Tamm001",
+    "role": "reseller",
+    "expiresAt": 1793635505016,
+    "createdAt": 1762099505024
   }
 ]
