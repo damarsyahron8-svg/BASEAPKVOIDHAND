@@ -40,5 +40,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1763197126859
+  },
+  {
+    "username": "evox",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1794733503544,
+    "createdAt": 1763197503552
   }
 ]
