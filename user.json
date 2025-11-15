@@ -47,5 +47,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762046829592
+  },
+  {
+    "username": "Winzz",
+    "password": "12",
+    "role": "reseller",
+    "expiresAt": 1765788065215,
+    "createdAt": 1763196065215
   }
 ]
