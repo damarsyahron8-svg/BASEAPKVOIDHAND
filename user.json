@@ -35,13 +35,6 @@
     "createdAt": 1763196065215
   },
   {
-    "username": "WAHYAU",
-    "password": "123",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1763197126859
-  },
-  {
     "username": "evox",
     "password": "123",
     "role": "user",
