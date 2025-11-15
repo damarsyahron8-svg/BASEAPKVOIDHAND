@@ -54,12 +54,5 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762052712519
-  },
-  {
-    "username": "Diz",
-    "password": "1",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1762073417421
   }
 ]
