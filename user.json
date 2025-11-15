@@ -47,12 +47,5 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762046829592
-  },
-  {
-    "username": "fahribohay",
-    "password": "fahribohay11",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1762052712519
   }
 ]
