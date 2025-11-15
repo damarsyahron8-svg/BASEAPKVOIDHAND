@@ -54,12 +54,5 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762052712519
-  },
-  {
-    "username": "Manzz",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1778833942514,
-    "createdAt": 1763195542514
   }
 ]
