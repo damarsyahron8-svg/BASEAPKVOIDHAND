@@ -42,13 +42,6 @@
     "createdAt": 1762046265502
   },
   {
-    "username": "rapi11",
-    "password": "rapi11",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1762046829592
-  },
-  {
     "username": "Winzz",
     "password": "12",
     "role": "reseller",
